@@ -87,8 +87,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions, suggestions, or feedback, feel free to contact me at:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **Email**: gihankavindakumar@gmail.com
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/gihan-kavinda-kumar-bs?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bozo%2FztYxQd672uenst%2FzUw%3D%3D)
+- 
 
 ---
 
