@@ -21,7 +21,7 @@ Welcome to the LLM Chatbot project! This chatbot leverages OpenAI's language mod
 
 This project showcases a chatbot built using OpenAI's language models and Chainlit. The chatbot can understand and respond to a wide range of queries, making it a versatile tool for various applications.
 
-![Chatbot Screenshot](https://github.com/your-username/LLM-Chatbot/blob/main/screenshots/chatbot_screenshot.png)
+![Chatbot Screenshot]([https://github.com/your-username/LLM-Chatbot/blob/main/screenshots/chatbot_screenshot.png](https://github.com/Gkkumar2/LLM-app-with-chainlit/blob/main/ss/Screenshot%202024-11-05%20223959.png))
 
 ## Features
 
